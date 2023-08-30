@@ -1,0 +1,16 @@
+.container__page-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.container__page-title h1{
+    font-size: 130px;
+    color: #fff;
+}
+.container__page-title hr{
+    border-color: #1d1d1d;
+    width: 100vw;
+    margin: 1rem 0;
+}
