@@ -1,3 +1,39 @@
-*{
-    color: #fff;
+.container__nav-bar{
+    padding: 1rem 2.5rem 0 2.5rem;
+    /* padding-bottom: 0; */
+    display: flex;
+    align-items: center;
+}
+
+.nav-bar__profile-img{
+    border-radius: 100%;
+    overflow: hidden;
+    width: 30px;
+    height: 30px;
+}
+
+.nav-bar__profile-img img{
+    width: 30px;
+}
+
+.container__nav-bar ul{
+    width: 20%;
+    display: flex;
+    list-style: none;
+    margin-left: 2rem;
+}
+
+.container__nav-bar ul li{
+    margin-right: 2rem;
+}
+
+.container__nav-bar a{
+    cursor: pointer;
+    color: #8a8a8a;
+    font-size: small;
+    font-weight: 600;
+}
+
+.container__nav-bar a:hover{
+    color: #d1d1d1;
 }

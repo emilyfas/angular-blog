@@ -5,12 +5,14 @@
     align-items: center;
     text-align: center;
 }
+
 .container__page-title h1{
     font-size: 130px;
     color: #fff;
 }
+
 .container__page-title hr{
     border-color: #1d1d1d;
-    width: 100vw;
+    width: 100%;
     margin: 1rem 0;
 }
