@@ -8,5 +8,6 @@
     text-decoration: none;
 }
 body{
+    width: 100vw;
     background-color: #111111;
 }

@@ -1,6 +1,5 @@
 .container__nav-bar{
-    padding: 1rem 2.5rem 0 2.5rem;
-    /* padding-bottom: 0; */
+    padding: 1rem 8rem 0 8rem;
     display: flex;
     align-items: center;
 }
@@ -20,7 +19,7 @@
     width: 20%;
     display: flex;
     list-style: none;
-    margin-left: 2rem;
+    margin-left: 5%;
 }
 
 .container__nav-bar ul li{

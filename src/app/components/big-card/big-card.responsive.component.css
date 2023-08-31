@@ -1,0 +1,38 @@
+@media screen and (max-width: 932px){
+    .container__big-card{
+        height: 420px;
+        padding-bottom: 2rem;
+    }
+} 
+@media screen and (max-width: 600px){
+    .container__big-card{
+        padding: 0 1rem;
+    }
+
+    .container__big-card img{
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 400px){
+    .container__big-card{
+        /* background-color: aquamarine; */
+        width: 90vw;
+        height: 370px;
+    }
+    .big-card__picture img{
+        width: 100%;
+        height: 200px;
+    }
+    
+    .big-card__title h2{
+        font-size: 1rem;
+        line-height: 1rem;
+    }
+    
+    .big-card__description p{
+        font-size: .7rem;
+    }
+}
+
+

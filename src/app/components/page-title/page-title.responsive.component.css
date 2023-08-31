@@ -1,0 +1,13 @@
+@media screen and (max-width: 932px){
+    .container__page-title h1{
+        font-size: 50px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .container__page-title{
+        align-items: center;
+    }
+    .container__page-title h1{
+        font-size: 30px;
+    }
+}
