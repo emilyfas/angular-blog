@@ -8,22 +8,4 @@
 .articles__others{
     height: 400px;
     width: 450px;
-    overflow-y: auto;
-}
-
-::-webkit-scrollbar {
-    width: 10px;
-}
-  
-::-webkit-scrollbar-track {
-    background: #f1f1f1;
-    height: 15px;
-}
-  
-::-webkit-scrollbar-thumb {
-    background: #888;
-}
-  
-::-webkit-scrollbar-thumb:hover {
-    background: #555;
 }
