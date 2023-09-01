@@ -1,6 +1,13 @@
-# AngularBlog
+# Angular Blog
+
+![BlogAngular](https://github.com/emilyfas/angular-blog/assets/115494759/f8bd5d9e-34cd-4a26-8cee-c970210d8b9d)
 
 Projeto feito com intuito de praticar conhecimentos adquiridos sobre Angular. Projeto consiste em uma página inicial com cards de notícias, além de uma página de detalhes, em que ao clicar em uma notícia na página inicial, a pagina de detalhes é chamada, e o conteúdo da notícia é chamado de forma dinâmica.
+
+## Principais conceitos aprendidos
+- Components
+- LifeCycle Hooks
+- Módulos
 
 ## Instruções de Uso
 1. Acesse o site [Blog](https://emilyfas.github.io/angular-blog/) no seu navegador.
@@ -8,9 +15,10 @@ Projeto feito com intuito de praticar conhecimentos adquiridos sobre Angular. Pr
 3. Clique em uma notícia para visualizar seus detalhes.
 
 ## Tecnologias Utilizadas
-- HTML5 e CSS3
-- TypeScript
-- Angular
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Autora
 O projeto foi desenvolvido por Emilly Fernandes durante. Você pode entrar em contato por:
