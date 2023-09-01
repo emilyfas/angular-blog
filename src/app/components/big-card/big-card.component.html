@@ -1,13 +1,13 @@
 <section class="container__big-card">
     <div class="big-card__picture">
-        <a href="#">
+        <a [routerLink]="['content', Id]">
             <img src="{{ photoCover }}" alt="">
         </a>
     </div>
     <div class="big-card__title">
         <!-- Agosto 30, 2023 -->
         <span class="big-card__date">{{ cardDate }}</span>
-        <a href="#"><h2>{{ cardTitle }}</h2></a>
+        <a [routerLink]="['content', Id]"><h2>{{ cardTitle }}</h2></a>
        
     </div>
     <div class="big-card__description">

@@ -1,0 +1,22 @@
+ @media screen and (max-width: 600px){
+    .container__content{
+        padding: 2rem 2rem;
+    }
+    .content__cover img{
+        width: 350px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 400px){
+    .container__content{
+        padding: 2rem 1rem;
+    }
+    .content__back-btn{
+        left: .5rem;
+    }
+    .content__cover img{
+        width: 300px;
+        height: 170px;
+    }
+}
