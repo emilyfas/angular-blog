@@ -9,11 +9,6 @@ Projeto feito com intuito de praticar conhecimentos adquiridos sobre Angular. Pr
 - LifeCycle Hooks
 - Módulos
 
-## Instruções de Uso
-1. Acesse o site [Blog](https://emilyfas.github.io/angular-blog/) no seu navegador.
-2. Navegue pelas notícias exibida na página inicial.
-3. Clique em uma notícia para visualizar seus detalhes.
-
 ## Tecnologias Utilizadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
