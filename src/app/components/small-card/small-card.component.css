@@ -15,6 +15,11 @@
     width: 150px;
     height: 100px;
     object-fit: cover;
+    filter: grayscale(0%);
+}
+
+.small-card__picture img:hover{
+    filter: grayscale(100%);
 }
 
 .small-card__title{
@@ -38,6 +43,6 @@
 
 hr{
     width: 400px;
-    margin: 1rem auto;
+    margin: 1.5rem auto;
     border-color: #1d1d1d;
 }
